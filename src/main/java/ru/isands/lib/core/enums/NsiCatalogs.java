@@ -16,7 +16,8 @@ public enum NsiCatalogs {
     STATUS("c0a800d8-8a5f-13ec-818a-5fe622f90008"),
     SOURCE("c0a800d8-8a5f-13ec-818a-5fe656360009"),
     PARSE_SOURCE("c0a800d8-8ad0-16b6-818a-d0f7b4390000"),
-    ORGANIZATION_TYPE("c0a800d8-8a5f-13ec-818a-5fe6816c000a");
+    ORGANIZATION_TYPE("c0a800d8-8a5f-13ec-818a-5fe6816c000a"),
+    NOTIFICATION_TYPES("c0a800d8-8b1e-15c0-818b-1e362aaa0000");
 
     private final String id;
 

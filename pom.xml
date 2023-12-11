@@ -11,7 +11,7 @@
     </parent>
     <groupId>ru.isands.lib</groupId>
     <artifactId>open-data-core</artifactId>
-    <version>0.0.1-SNAPSHOT</version>
+    <version>0.0.1</version>
     <name>open-data-core</name>
     <description>Common classes for open-data services</description>
     <properties>

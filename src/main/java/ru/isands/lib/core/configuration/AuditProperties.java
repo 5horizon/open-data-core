@@ -8,7 +8,7 @@ import ru.isands.lib.core.audit.metamodel.MetaModel;
 
 @Value
 @ConstructorBinding
-@ConfigurationProperties(prefix = "audit")
+@ConfigurationProperties(prefix = "audit-od")
 public class AuditProperties {
 
     private boolean enabled;
